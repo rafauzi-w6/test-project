@@ -1,2 +1,2 @@
 # test_project
-testing ini branch origin
+testing ini branch bukan origin tapi mau dipush ke origin
